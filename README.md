@@ -16,7 +16,7 @@
   ## Installation
   First run `npm i` in order to install the dependencies. The application itself can be invoked with `node server.js` in the intergreated termeinal.
 
-  Here is a link to the deployed site on [heroku](https://floating-tundra-72320.herokuapp.com/).
+  Here is a link to the deployed site on [heroku](https://shielded-hamlet-08633.herokuapp.com/).
 
   ## Usage
   Add Funds example:
