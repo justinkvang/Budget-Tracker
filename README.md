@@ -19,8 +19,10 @@
   Here is a link to the deployed site on [heroku](https://floating-tundra-72320.herokuapp.com/).
 
   ## Usage
-  ![Gif demo](./public/assets/demo.gif)
-  ![dashboard](./public/assets/dashboard.png)
+  Add Funds example:
+  ![add demo](./public/assets/add.gif)
+  Subtract Funds example:
+  ![substract demo](./public/assets/subtract.gif)
 
   ## License
   [MIT License](https://choosealicense.com/licenses/mit/)
